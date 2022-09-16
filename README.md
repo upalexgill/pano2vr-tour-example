@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <a align="center" href="https://silver-treacle-3d1c45.netlify.app/">View Demo</a>
+  <a align="center" target="_blank" href="https://silver-treacle-3d1c45.netlify.app/">View Demo</a>
 </p>
