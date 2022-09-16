@@ -20,7 +20,8 @@
       <hotspot pan="-33.87" description="" tilt="1.73" id="Point03" target="0.0/0.0/84.4" url="{node2}" title="Garden" skinid="ht_node"/>
       <hotspot pan="-332.01" description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue orci at nulla ultricies fringilla non vel lorem. Nulla interdum, leo maximus fringilla blandit, nisi augue dignissim justo, in congue turpis leo vitae mauris. Etiam dignissim tortor mauris. Suspendisse quis auctor dui. Nam interdum dolor quis ligula euismod venenatis. Vivamus ac odio sit amet odio placerat rutrum. Sed luctus est vel congue feugiat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut ac sem urna. Donec sed sodales ex. Aliquam facilisis lectus sed euismod imperdiet. Etiam imperdiet hendrerit dolor at rutrum." tilt="4.96" id="Point04" target="" url="" title="Info" skinid="ht_info"/>
       <hotspot pan="-333.94" description="" tilt="18.93" id="Point05" target="" url="CwkKbFQSuBk" title="" skinid="ht_video_youtube"/>
-      <hotspot pan="-66.13" description="" tilt="-14.46" id="Point06" target="_blank" url="https://en.wikipedia.org/wiki/Mozart_Monument,_Vienna" title="wikipedia.org" skinid="ht_url"/>
+      <hotspot pan="-66.34" description="" tilt="-14.45" id="Point06" target="" url="web-page" title="Internal Web page" skinid="ht_info_1"/>
+      <hotspot pan="-332.26" description="" tilt="30.01" id="Point07" target="_blank" url="https://en.wikipedia.org/wiki/Mozart_Monument,_Vienna" title="" skinid="ht_url"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" zoomout="0" softedge="0" zoomafterinfov="90" zoomafteroutfov="20" enabled="1" zoomspeed="2" blendtime="1" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomfov="20"/>
